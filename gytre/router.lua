@@ -1,6 +1,6 @@
 --
 --
---local router = require('lua.router')
+--local router = require('lua.gytre.router')
 --Router = router:new()
 --Router:GET('/panel/games', 'lua.panel.games')
 --
