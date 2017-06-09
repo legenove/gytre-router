@@ -2,8 +2,9 @@
 --
 --local router = require('lua.gytre.router')
 --Router = router:new()
---Router:GET('/panel/games', 'lua.panel.games')
+--Router:Register('tree','/panel/games', 'lua.panel.games')
 --
+--Router:GetHandle('tree','/panel/games')
 
 
 local string_sub = string.sub
