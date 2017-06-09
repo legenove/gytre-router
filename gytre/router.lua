@@ -10,7 +10,7 @@ local string_sub = string.sub
 local error = error
 local setmetatable = setmetatable
 
-local node = require('lua.tree')
+local node = require('lua.gytre.tree')
 
 local router = {
     trees = nil,
