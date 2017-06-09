@@ -5,7 +5,7 @@
 -- Time: 上午10:31
 -- To change this template use File | Settings | File Templates.
 --
-local node = require('lua.tree')
+local node = require('lua.grtre.tree')
 local print = print
 local string_format = string.format
 local table_getn = table.getn
